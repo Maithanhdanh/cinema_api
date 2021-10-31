@@ -7,3 +7,6 @@ content-type: application/json
 {
   "seatNumber":{}
 }
+
+###
+GET http://localhost:3000/seats/1
