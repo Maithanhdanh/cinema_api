@@ -1,9 +1,0 @@
-GET http://localhost:5000/health
-
-###
-POST http://localhost:5000/seat/register-seat/
-content-type: application/json
-
-{
-  "seatNumber":{}
-}
