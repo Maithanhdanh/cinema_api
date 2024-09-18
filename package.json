@@ -17,7 +17,7 @@
   "author": "Dantis Mai <mtd.maithanhdanh@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.21.0",
     "module-alias": "^2.2.2",
     "tslib": "~2.3.0",
     "winston": "^3.3.3"
